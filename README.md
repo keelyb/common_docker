@@ -95,3 +95,6 @@ A list of useful docker images to run.
         }
     }
     ~~~
+# SQLITE
+- Configure a docker image with SQLite
+- TODO: https://thriveread.com/sqlite-docker-container-and-docker-compose/
